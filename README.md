@@ -9,3 +9,7 @@ Mineneの物置：https://pomato-b.hatenablog.com
 
 ## Treasure_hunt_by_Q-learning
 『マルチエージェント学習』の3章で扱われている宝探し問題のQ学習による解法のソースコード
+
+## search-directory
+指定したディレクトリ以下のすべてのフォルダ/ファイルを標準出力し、対象ファイルの左詰めになっている行をファイル出力するコード
+（適当
