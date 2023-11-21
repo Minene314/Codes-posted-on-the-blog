@@ -13,3 +13,7 @@ Mineneの物置：https://pomato-b.hatenablog.com
 ## search-directory
 指定したディレクトリ以下のすべてのフォルダ/ファイルを標準出力し、対象ファイルの左詰めになっている行をファイル出力するコード
 （適当
+<br>
+コンパイル後、実行してから標準入力でディレクトリのパスを指定する。
+<br>
+実行結果例：class_field_methods.txt　（一部変更を加えています。）
