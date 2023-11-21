@@ -39,8 +39,8 @@ void fileSearch(string path, ofstream &wfile) {
                         wfile << line << endl;
                 }
                 wfile << endl;
-                mf.close();
             }
+            mf.close();
         }
         if (is_directory(tmp)) fileSearch(tmp, wfile);
     }
